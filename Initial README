@@ -1,0 +1,24 @@
+# QA Automation Portfolio
+QA / test automation learning portfolio (Python, Pytest)
+
+
+This repository tracks my QA / test automation learning and projects as I transition from school into industry.
+
+## Stack
+- Python 3.12
+- PyTest
+- Selenium (planned)
+- GitHub Actions (planned)
+
+## Structure
+- `tests/` – automated test scripts
+- `docs/` – test plans, notes, and documentation
+
+## Current Status
+- Environment setup complete (Python + PyTest)
+- First automated test added
+
+## Goals (Next 30 Days)
+- Build a small automated test suite for a sample web app
+- Add CI with GitHub Actions
+- Expand from sanity tests to regression tests
