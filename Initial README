@@ -1,24 +1,33 @@
 # QA Automation Portfolio
 QA / test automation learning portfolio (Python, Pytest)
 
+# QA Automation Portfolio
 
-This repository tracks my QA / test automation learning and projects as I transition from school into industry.
+This repository contains automated UI tests built using:
 
-## Stack
-- Python 3.12
-- PyTest
-- Selenium (planned)
-- GitHub Actions (planned)
+- Python
+- Pytest
+- Playwright
 
-## Structure
-- `tests/` – automated test scripts
-- `docs/` – test plans, notes, and documentation
+## Project Structure
 
-## Current Status
-- Environment setup complete (Python + PyTest)
-- First automated test added
 
-## Goals (Next 30 Days)
-- Build a small automated test suite for a sample web app
-- Add CI with GitHub Actions
-- Expand from sanity tests to regression tests
+## Setup Instructions
+
+1. Create virtual environment:
+2. Install dependencies:
+3. Install Playwright browsers:
+4. Run tests:
+
+
+## Current Test Coverage
+
+- Homepage load validation
+- Page title verification
+
+---
+
+More tests will be added as the framework expands.
+git add README.md
+git commit -m "Add project documentation"
+git push
